@@ -12,3 +12,4 @@ C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8
 C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
 C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
 C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.sourcelink.json
