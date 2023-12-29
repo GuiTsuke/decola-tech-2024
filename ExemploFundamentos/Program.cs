@@ -1,17 +1,31 @@
 ﻿using ExemploFundamentos.Models;
 
-int a = 10;
-int b = 20; 
-
-int c = a + b;
-
-// c = c + 5; 
-// combinação de operadores: +=, -=, /=, *= 
-
-c += 5;
+//Cast/ Casting - convertendo tipos de variáveis
+// Convert.ToInt32(metodo); - converte tipos de variáveis
+// ou
+// int.Parse(metodo); - converte tipos de variáveis 
 
 
-Console.WriteLine(c);
+// int a = Convert.ToUInt32("5");
+int a = int.Parse("5");
+
+Console.WriteLine(a);
+
+
+
+
+// int a = 10;
+// int b = 20; 
+
+// int c = a + b;
+
+// // c = c + 5; 
+// // combinação de operadores: +=, -=, /=, *= 
+
+// c += 5;
+
+
+// Console.WriteLine(c);
 
 
 
