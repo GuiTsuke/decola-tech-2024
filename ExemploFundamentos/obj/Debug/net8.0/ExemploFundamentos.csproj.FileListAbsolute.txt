@@ -1,0 +1,14 @@
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.exe
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.deps.json
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.runtimeconfig.json
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.dll
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.dll
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploFundamentos.dll
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\geh12\OneDrive\Área de Trabalho\.NET\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll
