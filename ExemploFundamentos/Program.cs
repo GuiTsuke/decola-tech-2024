@@ -1,19 +1,51 @@
 ﻿using ExemploFundamentos.Models;
 
+//Operador AND (&&)
 
-// Operador OR 
-bool maiorDeIdade = false;
-bool possuiAutorizacaoResponsavel = true;
+bool possuiPresencaMinima = true; 
+double media = 7; 
 
 
-if (maiorDeIdade || possuiAutorizacaoResponsavel)
+if (possuiPresencaMinima && media >= 7 )
+
 {
-    Console.WriteLine("Entrada liberada");
+    Console.WriteLine("Aprovado");
 }
-else 
+else
 {
-    Console.WriteLine("Entrada não liberada");
+    Console.WriteLine("Reprovado");
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // Operador OR (||)
+// bool maiorDeIdade = false;
+// bool possuiAutorizacaoResponsavel = true;
+
+
+// if (maiorDeIdade || possuiAutorizacaoResponsavel)
+// {
+//     Console.WriteLine("Entrada liberada");
+// }
+// else 
+// {
+//     Console.WriteLine("Entrada não liberada");
+// }
+
+
+
+
 
 
 // //Switch Case
