@@ -1,26 +1,70 @@
 ﻿using ExemploFundamentos.Models;
 
-//Operador AND (&&)
 
-bool possuiPresencaMinima = true; 
-double media = 7; 
+//Classe calculadora 
+Calculadora calc = new Calculadora();
 
-
-if (possuiPresencaMinima && media >= 7 )
-
-{
-    Console.WriteLine("Aprovado");
-}
-else
-{
-    Console.WriteLine("Reprovado");
-}
+calc.Somar(7, 30);
+calc.Subtrair(10, 50);
+calc.Multiplicar(15,45);
+calc.Dividir(2, 2);
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //Operador NOT (!)
+// bool choveu = false;
+// bool estaTarde = false;
+
+// if (!choveu && !estaTarde)
+// {
+//     Console.WriteLine("Vou pedalar");
+// }
+// else
+// {
+//     Console.WriteLine("Vou pedalar outro dia");
+// }
+
+
+
+
+
+
+
+
+
+
+
+// //Operador AND (&&)
+
+// bool possuiPresencaMinima = true; 
+// double media = 7; 
+
+
+// if (possuiPresencaMinima && media >= 7 )
+
+// {
+//     Console.WriteLine("Aprovado");
+// }
+// else
+// {
+//     Console.WriteLine("Reprovado");
+// }
 
 
 
