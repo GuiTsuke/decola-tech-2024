@@ -1,15 +1,37 @@
 ﻿using ExemploFundamentos.Models;
 
+//Cast implicito - converte tipos de variaveis de maneira implicita
+int a = 5;
+double b = a;
+Console.WriteLine(b);
+
+
+
+
+
+
+
+
+
+
+
+
+// int inteiro = 5;
+// string a = inteiro.ToString();
+// Console.WriteLine(a);
+
+
+
 //Cast/ Casting - convertendo tipos de variáveis
-// Convert.ToInt32(metodo); - converte tipos de variáveis
+// Convert.ToInt32(metodo); - converte tipos de variáveis - o Convert aceita valor nulo 
 // ou
-// int.Parse(metodo); - converte tipos de variáveis 
+// int.Parse(metodo); - converte tipos de variáveis o Parse não aceita valor nulo
 
 
 // int a = Convert.ToUInt32("5");
-int a = int.Parse("5");
+// int a = int.Parse("5");
 
-Console.WriteLine(a);
+// Console.WriteLine(a);
 
 
 
