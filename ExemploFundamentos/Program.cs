@@ -1,18 +1,64 @@
 ﻿using ExemploFundamentos.Models;
 
+//Operador Condicional (if aninhado)
+
+int quantidadeEmEstoque = 10;
+int quantidadeCompra = 0; 
+bool possivelVenda =quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+
+Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+Console.WriteLine($"Quantidade compra: {quantidadeCompra}");
+Console.WriteLine($"É possivel realizar a venda?  {possivelVenda}");
+
+
+if (quantidadeCompra == 0)
+{
+    Console.WriteLine("Venda inválida");
+}
+else if (possivelVenda)
+{
+    Console.WriteLine("Venda realizada");
+
+}
+else
+{
+    Console.WriteLine("Desculpe, não temos a quantidadr desejada no estoque");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int b = 0;
+
+// int.TryParse(a, out b);
+// Console.WriteLine(b);
+// Console.WriteLine("Conversão realizada com sucesso");
+
+
+
+
+//Ordem dos operadores
+// double a = 4 / (2 + 2); 
+
+// Console.WriteLine(a);
+
+
 //Cast implicito - converte tipos de variaveis de maneira implicita
-int a = 5;
-double b = a;
-Console.WriteLine(b);
-
-
-
-
-
-
-
-
-
+// int a = 5;
+// double b = a;
+// Console.WriteLine(b);
 
 
 
