@@ -2,11 +2,6 @@
 
 
 
-// Raiz quadrada
-Calculadora calc = new Calculadora();
-
-
-calc.RaizQuadrada(9);
 
 
 
@@ -21,6 +16,16 @@ calc.RaizQuadrada(9);
 
 
 
+
+
+
+
+
+
+// // Raiz quadrada
+// Calculadora calc = new Calculadora();
+
+// calc.RaizQuadrada(9);
 
 
 
