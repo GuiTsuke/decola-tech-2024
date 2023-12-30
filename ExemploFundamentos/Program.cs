@@ -1,22 +1,50 @@
 ﻿using ExemploFundamentos.Models;
 
 
-//Incremento e Decremento 
 
-int numeroIncremento = 10;
-
-Console.WriteLine("Incremento ao numero 10");
-numeroIncremento++;
-
-Console.WriteLine(numeroIncremento);
+// Raiz quadrada
+Calculadora calc = new Calculadora();
 
 
-int numeroDecremento = 10;
+calc.RaizQuadrada(9);
 
-Console.WriteLine("Decremento ao numero 10");
-numeroDecremento--;
 
-Console.WriteLine(numeroDecremento);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //Incremento e Decremento 
+
+// int numeroIncremento = 10;
+
+// Console.WriteLine("Incremento ao numero 10");
+// numeroIncremento++;
+
+// Console.WriteLine(numeroIncremento);
+
+
+// int numeroDecremento = 10;
+
+// Console.WriteLine("Decremento ao numero 10");
+// numeroDecremento--;
+
+// Console.WriteLine(numeroDecremento);
 
 
 
